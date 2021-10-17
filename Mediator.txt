@@ -1,0 +1,6 @@
+841301 111 Saran Apollo HWC 5 5 5 5
+841301 121 Saran Sarojni DH 3 3 3 3
+334001 131 Bikaner PBM  HWC 5 4 5 
+334001 141 Bikaner Apollo HWC 5 5 5 5
+800001 151 Patna Sarojni DH 3 3 3 3
+800001 156 Patna MahatmaGandhi HWC 2 2 2 2
